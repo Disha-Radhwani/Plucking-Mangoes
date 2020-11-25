@@ -39,7 +39,7 @@ function setup() {
 	mango4=new Mango(600,250,20);
 	mango5=new Mango(650,250,20);
 
-    launcher=new Launcher(stone.body,{x:140,y:600});
+    launcher=new Launcher(stone.body,{x:150,y:600});
 
 	Engine.run(engine);
   
