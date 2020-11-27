@@ -27,7 +27,7 @@ function setup() {
     ground=new Ground(600,height,1200,20);
     tree=new Tree(590,700);
 
-	stone=new Stone(140,600,20,20);
+	stone=new Stone(170,600,20,20);
 
 	boy=createSprite(200,640,10,10);
 	boy.addImage(boyImage);
